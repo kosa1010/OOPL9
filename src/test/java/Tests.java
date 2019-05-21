@@ -4,7 +4,6 @@ import org.junit.Test;
 import pl.edu.ur.oopl9.zad2.TreeSetOperations;
 
 /**
- * Created by mchyl on 20/08/2018.
  */
 public class Tests {
 
