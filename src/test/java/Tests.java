@@ -7,7 +7,7 @@ import pl.edu.ur.oopl9.zad2.TreeSetOperations;
  */
 public class Tests {
 
-    @Test
+    @Test(timeout = 10000)
     public void testEx1(){
         ArrayOperations arrayOperations = new ArrayOperations();
         arrayOperations.init();
@@ -22,7 +22,7 @@ public class Tests {
         }
     }
 
-    @Test
+    @Test(timeout = 10000)
     public void testEx2(){
         TreeSetOperations treeSetOperations = new TreeSetOperations();
         treeSetOperations.init();
