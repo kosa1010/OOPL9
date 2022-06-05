@@ -383,4 +383,4 @@ Utwórz klasę `Car` zawierającą opis parametrów samochodów różnych marek,
 
 Napisz aplikację realizującą słownik umożliwiający przetłumaczenie dwudziestu podstawowych słów zapisanych w języku polskim na język angielski. Po wpisaniu słowa w języku polskim w konsoli powinien się pojawić ekwiwalent słowa w języku angielskim. Aplikacja powinna działać do chwili wpisania łańcucha "koniec!". Do reprezentacji danych użyj typu generycznego `HashMap`.
 
-###### Opracował dr inż. Wojciech Kozioł
+###### Na podstawie opracowania dr inż. Wojciecha Kozioła
